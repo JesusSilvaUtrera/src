@@ -11,6 +11,7 @@ find_package(catkin REQUIRED COMPONENTS
   roscpp
   rospy
   turtlesim
+  beginner_tutorials
   std_msgs
   geometry_msgs
 )
